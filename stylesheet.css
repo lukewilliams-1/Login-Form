@@ -1,0 +1,42 @@
+body{
+    background-color: #e6e6e6;
+}
+
+
+.form_contain{
+    width: 400px;
+    background-color: #00205b;
+    height: 400px;
+    border-radius: 3px;
+    margin: auto;
+}
+
+.profile_img{
+    width: 37.5%;
+    margin: 35px 31.25% 0 31.25%;
+    border-radius: 3px;
+}
+
+.username{
+    width: 80%;
+    margin: 25px 10% 10px 10%;
+    height: 30px;
+}
+
+.pass{
+    width: 80%;
+    margin: 0 10% 10px 10%;
+    height: 30px;
+}
+
+.passre{
+    width: 80%;
+    margin: 0 10% 10px 10%;
+    height: 30px;
+}
+
+input[type="text"]{
+    color: #abadb3;
+    font-family: Helvetica;
+    font-size:14px;
+}
